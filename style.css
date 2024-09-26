@@ -1,0 +1,14 @@
+body {
+  background: black;
+  color: white;
+  overflow: hidden;
+}
+
+pre code {
+  font: 11pt/1.25 Monaco, monospace;
+}
+
+.debug { color: Snow; }
+.info  { color: LawnGreen; }
+.warn  { color: GoldenRod; }
+.error { color: LightCoral; }
